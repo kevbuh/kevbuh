@@ -1,26 +1,25 @@
-### Hi there 👋
-
-My name is Kevin.
+## Hey! I'm Kevin Buhler.
 
 I'm a computer science student at CU Boulder. Here's some info about me!
 
-🔭 Current project: 
+🔎 Current project: 
 - Mobile application to deliver stadium concessions to fans. (React Native + Redux + Python/Django + PostgreSQL).
 
-🌱 Interests:
-- Web development.
+😄 Interests:
 - Startups
 - Architecture
+- Artificial Intelligence
+- Creating Music
+- Clean Energy
+- Web Development
+- Sustainable Energy
+- The Future
 
 💬 Reach me by email or LinkedIn! buhlerkw@gmail.com | www.linkedin.com/in/kevin-buhler
 
 📫 Visit my website: https://kevinbuhler.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevbuh&layout=compact&hide=tex&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevbuh)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevbuh&theme=radical&show_icons=true) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevbuh&layout=compact&hide=tex&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kevbuh/kevbuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
