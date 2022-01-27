@@ -16,9 +16,11 @@ I'm a computer science student at CU Boulder. Here's some info about me!
 
 📫 Visit my website: https://kevinbuhler.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevbuh&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevbuh&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevbuh)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevbuh&theme=radical&show_icons=true)
 
 <!--
 **kevbuh/kevbuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
