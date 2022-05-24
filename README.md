@@ -5,7 +5,7 @@ I'm a computer science student at CU Boulder. Here's some info about me!
 <!-- 🔎 Current project: 
 - Mobile application to deliver stadium concessions to fans. (React Native + Redux + Python/Django + PostgreSQL). -->
 
-😄 Interests:
+Interests:
 - Startups
 - Architecture
 - Artificial Intelligence
