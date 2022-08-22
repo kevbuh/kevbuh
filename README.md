@@ -1,4 +1,4 @@
-## Hey! I'm Kevin Buhler.
+## Hey, I'm Kevin Buhler.
 
 I'm a computer science student at CU Boulder. Here's some info about me!
 
