@@ -1,19 +1,10 @@
-## Hey, I'm Kevin Buhler.
+##  Kevin Buhler.
 
-I'm a computer science student at CU Boulder. Here's some info about me!
+I'm a sophomore CS student @ CU Boulder. I've linked contact information below.
 
 <!-- 🔎 Current project: 
 - Mobile application to deliver stadium concessions to fans. (React Native + Redux + Python/Django + PostgreSQL). -->
 
-Interests:
-- Startups
-- Architecture
-- Artificial Intelligence
-- Creating Music
-- Clean Energy
-- Web Development
-- Sustainable Energy
-- The Future
 
 💬 Reach me by email or LinkedIn! buhlerkw@gmail.com | www.linkedin.com/in/kevin-buhler
 
