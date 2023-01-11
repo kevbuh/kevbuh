@@ -6,7 +6,7 @@ I'm a sophomore CS student @ CU Boulder. I've linked contact information below.
 - Mobile application to deliver stadium concessions to fans. (React Native + Redux + Python/Django + PostgreSQL). -->
 
 
-- Reach me by email or LinkedIn! buhlerkw@gmail.com | www.linkedin.com/in/kevin-buhler
+- Reach me by email or LinkedIn. buhlerkw@gmail.com | www.linkedin.com/in/kevin-buhler
 
 - Visit my website: https://kevinbuhler.com
 
