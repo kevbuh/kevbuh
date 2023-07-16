@@ -1,6 +1,6 @@
 ##  Kevin Buhler
 
-I'm a sophomore CS student @ CU Boulder. I've linked contact information below.
+I'm a rising junior CS student @ CU Boulder. I've linked contact information below.
 
 <!-- 🔎 Current project: 
 - Mobile application to deliver stadium concessions to fans. (React Native + Redux + Python/Django + PostgreSQL). -->
