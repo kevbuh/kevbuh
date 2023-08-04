@@ -1,16 +1,27 @@
 ##  Kevin Buhler
 
-I'm a rising junior CS student @ CU Boulder. I've linked contact information below.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevbuh&layout=compact&hide=tex&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+CS @ CU Boulder
 
 <!-- 🔎 Current project: 
 - Mobile application to deliver stadium concessions to fans. (React Native + Redux + Python/Django + PostgreSQL). -->
 
 
-- Reach me by email or LinkedIn. buhlerkw@gmail.com | www.linkedin.com/in/kevin-buhler
+ buhlerkw@gmail.com | www.linkedin.com/in/kevin-buhler | https://kevinbuhler.com
 
-- Visit my website: https://kevinbuhler.com
+ Some of my projects:
+ - froog: A SUPER SIMPLE AI FRAMEWORK
+ - yummf: A full-stack website rewritten 3x times in Django, Ruby on Rails, and NextJS
+ - babbleGPT: Generating Shakespeare by training a transformer based language model on all of Shakespeare's work
+ - mcmkeviansud: Mathematical model to predict asteroid mining’s impact on global equity using Pandas and scikit-learn.
+ - jotalot: iOS/Android cross-platform mobile application written in React Native and Django
+ - lookup: Google Extension to explain highlighted text by leveraging machine learning
+   
+ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevbuh&layout=compact&hide=tex&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **kevbuh/kevbuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
