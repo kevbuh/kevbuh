@@ -1,4 +1,3 @@
-
 <div align="center">
 <img src="https://github-stats-alpha.vercel.app/api?username=kevbuh&cc=0000000&tc=FFFFFF&ic=fff&bc=0000">
  
@@ -18,6 +17,7 @@
 - [findnuer](https://github.com/kevbuh/findnuer): Extended version of FindNue.
 - [friend](https://github.com/kevbuh/friend)
 - [froog](https://github.com/kevbuh/froog): A beautifully compact and minimal tensor library built in under 1000 lines
+- [guide](https://github.com/kevbuh/guide): Enhanced Reasoning Tautological Proof Engine guided by Tree-of-Thoughts LLM Search
 - [hopper](https://github.com/kevbuh/hopper): a haskell ml framework
 - [hopper-website](https://github.com/kevbuh/hopper-website)
 - [husun](https://github.com/kevbuh/husun): Short Science Fiction Story
