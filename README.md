@@ -42,3 +42,4 @@
 - [vocog](https://github.com/kevbuh/vocog): vocal cognition
 - [what](https://github.com/kevbuh/what): whispering highly accelerated transcription
 - [yummf](https://github.com/kevbuh/yummf): Full-stack recipe ranking algorithm and platform rewritten 3x times in Django, Ruby on Rails, and NextJS
+- [2048 assembly vm](https://github.com/kevbuh/2048-assembly-vm): LC3 assembly VM to play the 2048 game
