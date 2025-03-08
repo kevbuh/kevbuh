@@ -13,12 +13,9 @@
 - [brain](https://github.com/kevbuh/brain): Research for reverse engineering the human brain
 - [clox](https://github.com/kevbuh/clox): Lox bytecode C-based VM from "Crafting Interpreters"
 - [eyecandy](https://github.com/kevbuh/eyecandy): eyecandy.vercel.app
-- [findnue](https://github.com/kevbuh/findnue): 2024 update: this was one of my first projects and the app is down now :(
-<!--- - [findnuer](https://github.com/kevbuh/findnuer): Extended version of FindNue -->
+- [findnue](https://github.com/kevbuh/findnue): 2024 update: this was one of my first projects and the app is down now :( <!--- - [findnuer](https://github.com/kevbuh/findnuer): Extended version of FindNue -->
 - [froog](https://github.com/kevbuh/froog): A beautifully compact and minimal tensor library built in under 1000 lines
-- [guide](https://github.com/kevbuh/guide): Enhanced Reasoning Tautological Proof Engine guided by Tree-of-Thoughts LLM Search
-<!--- - [hopper](https://github.com/kevbuh/hopper): a haskell ml framework 
-- [hopper-website](https://github.com/kevbuh/hopper-website) -->
+- [guide](https://github.com/kevbuh/guide): Enhanced Reasoning Tautological Proof Engine guided by Tree-of-Thoughts LLM Search <!--- - [hopper](https://github.com/kevbuh/hopper): a haskell ml framework - [hopper-website](https://github.com/kevbuh/hopper-website) -->
 - [husun](https://github.com/kevbuh/husun): Short Science Fiction Story
 - [ig11](https://github.com/kevbuh/ig11): robot research notes
 - [imagine](https://github.com/kevbuh/imagine): Video prompting w/ Segment Anything and ControlNet (Replace anything you can see with anything you can think of)
@@ -36,9 +33,7 @@
 - [snacki](https://github.com/kevbuh/snacki): Mobile application for Snacki.
 - [snacki-web](https://github.com/kevbuh/snacki-web): Web application for Snacki.
 - [transformer](https://github.com/kevbuh/transformer): A coding of a transformer in PyTorch based of the Karpathy's tutorial on "Attention Is All You Need"
-- [unfollow](https://github.com/kevbuh/unfollow): Find out who doesn't follow you back on Instagram
-<!--- - [unilang](https://github.com/kevbuh/unilang): communicate universally -->
-<!--- - [vocog](https://github.com/kevbuh/vocog): vocal cognition -->
+- [unfollow](https://github.com/kevbuh/unfollow): Find out who doesn't follow you back on Instagram <!--- - [unilang](https://github.com/kevbuh/unilang): communicate universally --> <!--- - [vocog](https://github.com/kevbuh/vocog): vocal cognition -->
 - [what](https://github.com/kevbuh/what): whispering highly accelerated transcription
 - [yummf](https://github.com/kevbuh/yummf): Full-stack recipe ranking algorithm and platform rewritten 3x times in Django, Ruby on Rails, and NextJS
 - [2048 assembly vm](https://github.com/kevbuh/2048-assembly-vm): LC3 assembly VM to play the 2048 game
