@@ -25,6 +25,7 @@
 - [lotus](https://github.com/kevbuh/lotus): Lotus Foundation Non-Profit Company website
 - [mcm_keviansud](https://github.com/kevbuh/mcm_keviansud): Mathematical model to predict asteroid mining's impact on global equity using Pandas and scikit-learn
 - [modcopter](https://github.com/kevbuh/modcopter): I used to sell modded drones, this is the app code.
+- [newtab](https://github.com/kevbuh/newtab): Overrides the new tab page with a blank solid color for Brave Browser.
 - [nextnote](https://github.com/kevbuh/nextnote): React Native note taking app.
 - [nn-trainer](https://github.com/kevbuh/nn-trainer): Automatic Neural Network Training with Kubernetes.
 - [nufind](https://github.com/kevbuh/nufind): First nextjs project
