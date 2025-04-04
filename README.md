@@ -15,6 +15,7 @@
 - [eyecandy](https://github.com/kevbuh/eyecandy): eyecandy.vercel.app
 - [findnue](https://github.com/kevbuh/findnue): 2024 update: this was one of my first projects and the app is down now :( <!--- - [findnuer](https://github.com/kevbuh/findnuer): Extended version of FindNue -->
 - [froog](https://github.com/kevbuh/froog): A beautifully compact and minimal tensor library built in under 1000 lines
+- [goodcss](https://github.com/kevbuh/goodcss): browser extension replaces ugly css with an easy-to-read css style
 - [guide](https://github.com/kevbuh/guide): Enhanced Reasoning Tautological Proof Engine guided by Tree-of-Thoughts LLM Search <!--- - [hopper](https://github.com/kevbuh/hopper): a haskell ml framework - [hopper-website](https://github.com/kevbuh/hopper-website) -->
 - [husun](https://github.com/kevbuh/husun): Short Science Fiction Story
 - [ig11](https://github.com/kevbuh/ig11): robot research notes
