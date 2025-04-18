@@ -28,7 +28,7 @@
 - [modcopter](https://github.com/kevbuh/modcopter): I used to sell modded drones, this is the app code.
 - [newtab](https://github.com/kevbuh/newtab): Overrides the new tab page with a blank solid color for Brave Browser.
 - [nextnote](https://github.com/kevbuh/nextnote): React Native note taking app.
-- [nn-trainer](https://github.com/kevbuh/nn-trainer): Automatic Neural Network Training with Kubernetes.
+- [nn-trainer](https://github.com/kevbuh/nn-trainer): Distributed Neural Network Training with Kubernetes.
 - [nufind](https://github.com/kevbuh/nufind): First nextjs project
 - [simple_mlp](https://github.com/kevbuh/simple_mlp): Messing around with batch sizes and optimizers
 - [slam](https://github.com/kevbuh/slam): Simultaneous localization and mapping (SLAM) with OpenCV and OpenGL
