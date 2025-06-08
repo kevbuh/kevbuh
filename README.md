@@ -7,11 +7,11 @@
 ### Projects
 - [ai-notebooks](https://github.com/kevbuh/ai-notebooks): ai notebook implementations (Hopfield networks, Transformers, Q-learning, etc)
 - [audiogpt](https://github.com/kevbuh/audiogpt): Siri Remake in React Native & Flask App
-- [bitnet](https://github.com/kevbuh/bitnet): 'The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits' toy example
+- [bitnet](https://github.com/kevbuh/bitnet): Minimal implementation of Microsoft's BitNet b1.58 2B4T
 - [brain](https://github.com/kevbuh/brain): Research for reverse engineering the human brain
 - [clox](https://github.com/kevbuh/clox): Lox bytecode C-based VM from "Crafting Interpreters"
 - [findnue](https://github.com/kevbuh/findnue): 2024 update: this was one of my first projects and the app is down now :(
-- [froog](https://github.com/kevbuh/froog): GPU accelerated tensor library
+- [froog](https://github.com/kevbuh/froog): GPU accelerated tensor library (OpenCL and Metal)
 - [goodcss](https://github.com/kevbuh/goodcss): browser extension replaces ugly css with an easy-to-read css style
 - [guide](https://github.com/kevbuh/guide): Enhanced Reasoning Tautological Proof Engine guided by Tree-of-Thoughts LLM Search
 - [husun](https://github.com/kevbuh/husun): Short Science Fiction Story
