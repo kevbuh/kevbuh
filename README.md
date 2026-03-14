@@ -16,7 +16,7 @@
 - [guide](https://github.com/kevbuh/guide): Enhanced Reasoning Tautological Proof Engine guided by Tree-of-Thoughts LLM Search
 - [imagine](https://github.com/kevbuh/imagine): Video prompting w/ Segment Anything and ControlNet
 - [lookup](https://github.com/kevbuh/lookup): Google Extension to explain highlighted text by leveraging AI
-- [mcm_keviansud](https://github.com/kevbuh/mcm_keviansud): Mathematical model to predict asteroid mining's impact on global equity using Pandas and scikit-learn
+- [mcm_keviansud](https://github.com/kevbuh/mcm_keviansud): Mathematical model to predict asteroid mining's impact on global equity
 - [mergepdf](https://github.com/kevbuh/mergepdf): tui for merging pdfs into one
 - [newtab](https://github.com/kevbuh/newtab): Overrides the new tab page with a blank solid color for Brave Browser
 - [nn-trainer](https://github.com/kevbuh/nn-trainer): Distributed Neural Network Training with Kubernetes
