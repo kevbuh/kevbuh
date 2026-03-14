@@ -6,7 +6,7 @@
 
 ### Projects
 - [ai-notebooks](https://github.com/kevbuh/ai-notebooks): AI implementations (Hopfield networks, Transformers, Q-learning, etc)
-- [ai-notebooks](https://github.com/kevbuh/baselines): Self-contained Atari RL baselines
+- [baselines](https://github.com/kevbuh/baselines): Self-contained Atari RL baselines
 - [bitnet](https://github.com/kevbuh/bitnet): Pure PyTorch implementation of Microsoft's BitNet b1.58 2B4T
 - [brain](https://github.com/kevbuh/brain): Research for reverse engineering the human brain
 - [clox](https://github.com/kevbuh/clox): Lox bytecode C-based VM from "Crafting Interpreters"
