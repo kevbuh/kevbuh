@@ -24,3 +24,4 @@
 - [slam](https://github.com/kevbuh/slam): Simultaneous localization and mapping (SLAM) with OpenCV and OpenGL
 - [unfollow](https://github.com/kevbuh/unfollow): Find out who doesn't follow you back on Instagram
 - [2048-LC3-VM](https://github.com/kevbuh/2048-assembly-vm): LC3 assembly VM to play the 2048 game
+- And [more](https://github.com/kevbuh?tab=repositories)! 
