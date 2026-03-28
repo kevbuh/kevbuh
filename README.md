@@ -18,6 +18,7 @@
 - [lookup](https://github.com/kevbuh/lookup): Google Extension to explain highlighted text by leveraging AI
 - [mcm_keviansud](https://github.com/kevbuh/mcm_keviansud): Mathematical model to predict asteroid mining's impact on global equity
 - [mergepdf](https://github.com/kevbuh/mergepdf): tui for merging pdfs into one
+- [nasa-jpl-capstone](https://github.com/lucakhodge/nasa-jpl-capstone-2024-2025): Mars rover C++ simulations
 - [newtab](https://github.com/kevbuh/newtab): Overrides the new tab page with a blank solid color for Brave Browser
 - [nn-trainer](https://github.com/kevbuh/nn-trainer): Distributed Neural Network Training with Kubernetes
 - [simple_mlp](https://github.com/kevbuh/simple_mlp): Messing around with batch sizes and optimizers
