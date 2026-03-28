@@ -10,6 +10,7 @@
 - [bitnet](https://github.com/kevbuh/bitnet): Pure PyTorch implementation of Microsoft's BitNet b1.58 2B4T
 - [brain](https://github.com/kevbuh/brain): Research for reverse engineering the human brain
 - [clox](https://github.com/kevbuh/clox): Lox bytecode C-based VM from "Crafting Interpreters"
+- [centroid-visualization](https://github.com/Nweaver412/Centroid-Visualization-MNIST): Centroids hold image representations
 - [findnue](https://github.com/kevbuh/findnue): 2024 update: this was one of my first projects and the app is down now :(
 - [froog](https://github.com/kevbuh/froog): GPU accelerated tensor library (OpenCL and Metal)
 - [goodcss](https://github.com/kevbuh/goodcss): google extension that replaces ugly css with an easy-to-read css style
